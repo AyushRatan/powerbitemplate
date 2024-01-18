@@ -8,6 +8,5 @@ faiss-cpu
 powerbiclient
 spacy
 gensim
-numpy
 tiktoken
 pandas
