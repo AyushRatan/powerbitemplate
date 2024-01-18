@@ -1,0 +1,49 @@
+,Channel,Months,Total Sales
+0,Online,Jan,$1427
+1,Online,Feb,$1486
+2,Online,Mar,$1325
+3,Online,Apr,$1065
+4,Online,May,$803
+5,Online,Jun,$661
+6,Online,Jul,$665
+7,Online,Aug,$912
+8,Online,Sep,$1444
+9,Online,Oct,$1689
+10,Online,Nov,$1763
+11,Online,Dec,$1440
+12,Social Media,Jan,$1025
+13,Social Media,Feb,$925
+14,Social Media,Mar,$769
+15,Social Media,Apr,$555
+16,Social Media,May,$412
+17,Social Media,Jun,$325
+18,Social Media,Jul,$341
+19,Social Media,Aug,$495
+20,Social Media,Sep,$949
+21,Social Media,Oct,$1126
+22,Social Media,Nov,$1273
+23,Social Media,Dec,$1067
+24,Outlet,Jan,$125
+25,Outlet,Feb,$96
+26,Outlet,Mar,$73
+27,Outlet,Apr,$88
+28,Outlet,May,$65
+29,Outlet,Jun,$53
+30,Outlet,Jul,$45
+31,Outlet,Aug,$66
+32,Outlet,Sep,$145
+33,Outlet,Oct,$199
+34,Outlet,Nov,$202
+35,Outlet,Dec,$181
+36,Stores,Jan,$639
+37,Stores,Feb,$641
+38,Stores,Mar,$418
+39,Stores,Apr,$398
+40,Stores,May,$329
+41,Stores,Jun,$306
+42,Stores,Jul,$258
+43,Stores,Aug,$398
+44,Stores,Sep,$701
+45,Stores,Oct,$879
+46,Stores,Nov,$961
+47,Stores,Dec,$818

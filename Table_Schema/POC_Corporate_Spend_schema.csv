@@ -1,0 +1,10 @@
+Tables,Column_Names
+Business Area,"Business Area, Business Area ID"
+Cost Element,"Cost element name, Cost Element Group, Cost Element Sub Group, Cost Element ID"
+Country Region,"Sales Region, Country/Region, Country/Region ID"
+Date,"Date, Year, Period, Month"
+Department,"VP, Department"
+Fact,"Date, Value, Department, Cost Element ID, Country/Region ID, Business Area ID, IT Sub Area ID, Scenario ID"
+IT Area,"IT Area, IT Sub Area, IT Sub Area ID"
+Scenario,"Scenario, Scenario ID, ScenarioDescription"
+Range,www.obvience.com

@@ -1,0 +1,14 @@
+,Title,Type,Columns
+0,Revenue Open by Sales Stage,funnel,"Sales Stage, Revenue Open"
+1,Forecast by Location,shapeMap,"State or Province, State or Province.1, Rev Goal, Revenue Won, Revenue In Pipeline"
+2,Revenue Won and Revenue In Pipeline by Product LOB,barChart,"Product Category, Product, Revenue Won, Revenue In Pipeline"
+3,(Right click to drill to Users),lineStackedColumnComboChart,"Manager, Owner, Revenue won, Qualified pipeline, Rev Goal"
+4,Revenue and forecast by Product,pivotTable,"Product Category, Product, Revenue Won, Qualified Pipeline, Forecast %"
+5,Forecast by Territory,pivotTable,"Territory, State or Province, Revenue Won, In Pipeline, Forecast %"
+6,Forecast,kpi,"Forecast %, Blank"
+7,Qualified Pipeline,kpi,"Qualified Rev In Pipeline, Blank"
+8,Revenue goal,kpi,"Rev Goal, Blank"
+9,Revenue won,kpi,"Revenue Won, Blank"
+10,Company Logo,image,"Forecast Adjustment, Blank"
+11,Blank by Forecast Adjustment,columnChart,Forecast Adjustment
+12,Forecast Adjustment,slicer,"State or Province, State or Province.1, Rev Goal, Revenue Won, Revenue In Pipeline"

@@ -1,0 +1,14 @@
+Page_id,Page_Name,Visual_ID,Visualization,Title
+ReportSectionb621f12070647be09138,Sales Overview,f37cb3116b6b7130b995,funnel,Revenue Open by Sales Stage
+ReportSectionb621f12070647be09138,Sales Overview,db4e5eed33a1f6bec037,shapeMap,Forecast by Location
+ReportSectionb621f12070647be09138,Sales Overview,90b98cca54dd8f762bb3,barChart,Revenue Won and Revenue In Pipeline by Product LOB
+ReportSectionb621f12070647be09138,Sales Overview,5245dfb1a52da9fcc8c4,lineStackedColumnComboChart,(Right click to drill to Users)
+ReportSectionb621f12070647be09138,Sales Overview,9f70be51c71a0fb66724,pivotTable,Revenue and forecast by Product
+ReportSectionb621f12070647be09138,Sales Overview,e9ee7b2d33b6ec76638d,pivotTable,Forecast by Territory
+ReportSectionb621f12070647be09138,Sales Overview,8a0ce2360f3fa1944ab8,kpi,Forecast
+ReportSectionb621f12070647be09138,Sales Overview,c5c8a883a7a48a40a5eb,kpi,Qualified Pipeline
+ReportSectionb621f12070647be09138,Sales Overview,9076cf822e52a295ac32,kpi,Revenue goal
+ReportSectionb621f12070647be09138,Sales Overview,18ee1fa1b11e72e1895a,kpi,Revenue won
+ReportSectionb621f12070647be09138,Sales Overview,25649a488729cedc5363,image,Company Logo
+ReportSectionb621f12070647be09138,Sales Overview,9977560f84a487275f20,columnChart,Blank by Forecast Adjustment
+ReportSectionb621f12070647be09138,Sales Overview,f4ef9aeaa37645adde86,slicer,Forecast Adjustment

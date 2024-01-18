@@ -1,0 +1,15 @@
+,Visual_Title,Visual_Type,Columns
+0,Multi-row card,multiRowCard,New Stores
+1,Multi-row card,multiRowCard,Last Year Sales
+2,This Year Sales by PostalCode and Store Type,map,"PostalCode, Store Type, This Year Sales"
+3,This Year Sales,card,This Year Sales
+4,This Year Sales by Chain,pieChart,"Chain, This Year Sales"
+5,"Total Sales Var %, Sales Per Sq Ft and This Year Sales by District",scatterChart,"District, StoreNumber, Sales Per Sq Ft, Total Sales Var %, This Year Sales"
+6,Total Sales Variance by FiscalMonth and District Manager,lineClusteredColumnComboChart,"FiscalMonth, This Year Sales, Total Sales Var %"
+7,"Total Sales Variance %, Avg $/Unit TY and This Year Sales by Category",scatterChart,"FiscalMonth, Last Year Sales, This Year Sales, Total Sales Variance %"
+8,"Last Year Sales, This Year Sales and Total Sales Variance % by FiscalMonth",lineClusteredColumnComboChart,"Name, Chain, TotalSales"
+9,TotalSales by Chain and Name,barChart,"Chain, Name, Buyer, This Year Sales, Last Year Sales, Total Sales Var %, Total Sales Var"
+10,Detailed  Info,pivotTable,"FiscalMonth, Last Year Sales, This Year Sales"
+11,Last Year Sales and This Year Sales by FiscalMonth,lineStackedColumnComboChart,"FiscalMonth, Total Sales Variance %"
+12,Total Sales Variance % by FiscalMonth,waterfallChart,This Year Sales
+13,TYS Card,card,"Last Year Sales, This Year Sales"

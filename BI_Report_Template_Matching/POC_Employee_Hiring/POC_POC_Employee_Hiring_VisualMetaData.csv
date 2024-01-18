@@ -1,0 +1,15 @@
+,Page_id,Page_Name,Visual_ID,Visualization,Title
+0,ReportSection2,New Hires,VisualContainer6,pivotTable,Matrix
+1,ReportSection2,New Hires,VisualContainer4,columnChart,New Hires by AgeGroup and Gender
+2,ReportSection2,New Hires,VisualContainer2,lineClusteredColumnComboChart,"New Hires, New Hires SPLY and Actives YoY % Change by Month"
+3,ReportSection2,New Hires,VisualContainer1,lineChart,New Hires by Month and FPDesc
+4,ReportSection3,Actives and Separations,VisualContainer6,pivotTable,Matrix
+5,ReportSection3,Actives and Separations,3d3d46b715da00233be5,lineStackedColumnComboChart,Seps and Seps SPLY by Month and SeparationReason
+6,ReportSection3,Actives and Separations,VisualContainer7,donutChart,Seps by SeparationReason
+7,ReportSection,Bad Hires,VisualContainer5,barChart,BadHire%ofActives by AgeGroup
+8,ReportSection,Bad Hires,VisualContainer3,pivotTable,BadHires by Region and Ethnicity
+9,ReportSection,Bad Hires,VisualContainer2,lineChart,Bad Hires YoY % Change by Month and AgeGroup
+10,ReportSection,Bad Hires,VisualContainer1,donutChart,BadHires by Gender
+11,ReportSection4273058cc927075449cb,Tooltip,b5eb075b7e7d43bbcb61,multiRowCard,Multi-row card
+12,ReportSection4273058cc927075449cb,Tooltip,3962f0b2a3e0fad7848e,barChart,Separation by reason
+13,ReportSection4273058cc927075449cb,Tooltip,206fca8aa87ebc5b1f5c,barChart,Seps by AgeGroup and SeparationReason

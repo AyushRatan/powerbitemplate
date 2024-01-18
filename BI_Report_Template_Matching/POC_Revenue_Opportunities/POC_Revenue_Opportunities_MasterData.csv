@@ -1,0 +1,10 @@
+Title,Type,Columns
+Revenue,card,Opportunity Revenue
+Count,card,Opportunity Count
+Product Slicer,slicer,Product Code
+Opportunity Count by Region,treemap,"Region, State, Opportunity Count"
+Revenue by State,filledMap,"State, Revenue"
+Revenue and Opportunity Count by Month,lineStackedColumnComboChart,"Month, Revenue, Opportunity Count"
+Pipeline by Stage,barChart,"Sales Stage, Opportunity Count"
+Revenue by Region and State,barChart,"Region, State, Revenue"
+Matrix,pivotTable,"Opportunity Size, Region, Partner, Opportunities, Revenue, Factored Revenue, Avg Revenue"

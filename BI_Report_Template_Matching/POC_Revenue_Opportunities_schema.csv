@@ -1,0 +1,9 @@
+Table Name,Column_Names
+Account,"Account, Region, Segment, Account ID, State"
+Fact A,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month"
+Fact B,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month"
+Opportunity,"Name, Opportunity ID, Rank, SizeID, Opportunity Size"
+Partner,"Partner, Partner ID, Partner Driven"
+Product,"Product Code, Product ID"
+SalesStage,"Probability, Sales Stage, Sales Stage ID"
+Fact,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month, Date"

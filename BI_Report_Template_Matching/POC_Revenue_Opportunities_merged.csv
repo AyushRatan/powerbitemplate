@@ -1,0 +1,35 @@
+Table Name,Column_Names,Measure Name,Measure Expression,Measure Data Type,Measure Hidden,Page Name,Visual Title,Visual Type
+Account,"Account, Region, Segment, Account ID, State",None,None,None,None,None,None,None
+Fact A,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month",None,None,None,None,None,None,None
+Fact B,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month",None,None,None,None,None,None,None
+Opportunity,"Name, Opportunity ID, Rank, SizeID, Opportunity Size",None,None,None,None,None,None,None
+Partner,"Partner, Partner ID, Partner Driven",None,None,None,None,None,None,None
+Product,"Product Code, Product ID",None,None,None,None,None,None,None
+SalesStage,"Probability, Sales Stage, Sales Stage ID",None,None,None,None,None,None,None
+Fact,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month, Date",Avg Opportunity Days,AVERAGE([Opportunity Days]),Double,FALSE,None,None,None
+Fact,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month, Date",Avg Revenue,AVERAGE([ProductRevenue]),Decimal,FALSE,None,None,None
+Fact,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month, Date",Factored Revenue,SUM([FactoredProductRevenue]),Decimal,FALSE,None,None,None
+Fact,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month, Date",Opportunity Count,COUNTA([Opportunity ID]),Int64,FALSE,None,None,None
+Fact,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month, Date",Revenue,SUM([ProductRevenue]),Decimal,FALSE,None,None,None
+Fact,"EstimatedCloseDate, Opportunity ID, Sales Stage ID, Account ID, Partner ID, Product ID, ProductRevenue, FactoredProductRevenue, Create Date, Opportunity Days, Year, Month_Number, Month, Date",Tot Opportunity Days,sum([Opportunity Days]),Int64,FALSE,None,None,None
+None,None,None,None,None,None,Opportunity Overview,Shape for mobile,basicShape
+None,None,None,None,None,None,Opportunity Overview,Shape for mobile,basicShape
+None,None,None,None,None,None,Opportunity Overview,Shape for mobile,basicShape
+None,None,None,None,None,None,Opportunity Overview,Shape for mobile,basicShape
+None,None,None,None,None,None,Opportunity Overview,Shape for mobile,basicShape
+None,None,None,None,None,None,Opportunity Overview,Button,actionButton
+None,None,None,None,None,None,Opportunity Overview,Q&A,actionButton
+None,None,None,None,None,None,Opportunity Overview,Revenue by Region and State,barChart
+None,None,None,None,None,None,Opportunity Overview,Report Title,textbox
+None,None,None,None,None,None,Opportunity Overview,Pipeline by Stage,barChart
+None,None,None,None,None,None,Opportunity Overview,Revenue and Opportunity Count by Month,lineStackedColumnComboChart
+None,None,None,None,None,None,Opportunity Overview,Revenue by State,filledMap
+None,None,None,None,None,None,Opportunity Overview,Opportunity Count by Region,treemap
+None,None,None,None,None,None,Opportunity Overview,Product Slicer,slicer
+None,None,None,None,None,None,Opportunity Overview,Count,card
+None,None,None,None,None,None,Opportunity Overview,Revenue,card
+None,None,None,None,None,None,Detail,Matrix,pivotTable
+None,None,None,None,None,None,Detail,Button,actionButton
+None,None,None,None,None,None,Detail,Report Title,textbox
+None,None,None,None,None,None,Tooltip,Revenue by Segment,donutChart
+None,None,None,None,None,None,Tooltip,Revenue,card

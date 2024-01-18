@@ -1,0 +1,48 @@
+,Tables,Column_Names
+0,Store,LocationID
+1,Store, City Name
+2,Store, Territory
+3,Store, PostalCode
+4,Store, OpenDate
+5,Store, SellingAreaSize
+6,Store, DistrictName
+7,Store, Name
+8,Store, StoreNumberName
+9,Store, StoreNumber
+10,Store, City
+11,Store, Chain
+12,Store, DM
+13,Store, DM_Pic
+14,Store, DistrictID
+15,Store, Open Year
+16,Store, Store Type
+17,Store, Open Month No
+18,Store, Open Month
+19,Sales,MonthID
+20,Sales, ItemID
+21,Sales, LocationID
+22,Sales, Sum_GrossMarginAmount
+23,Sales, Sum_Regular_Sales_Dollars
+24,Sales, Sum_Markdown_Sales_Dollars
+25,Sales, ScenarioID
+26,Sales, ReportingPeriodID
+27,Sales, Sum_Regular_Sales_Units
+28,Sales, Sum_Markdown_Sales_Units
+29,Item,ItemID
+30,Item, Segment
+31,Item, Category
+32,Item, Buyer
+33,Item, FamilyNane
+34,Item, Category (clusters) 2
+35,Time,ReportingPeriodID
+36,Time, Period
+37,Time, FiscalYear
+38,Time, FiscalMonth
+39,Time, Month
+40,District,DistrictID
+41,District, District
+42,District, DM
+43,District, DM_Pic_fl
+44,District, DM_Pic
+45,District, BusinessUnitID
+46,District, DMImage

@@ -1,0 +1,13 @@
+langchain
+streamlit
+ctransformers
+sentence-transformers
+faiss-cpu
+openai
+faiss-cpu
+powerbiclient
+spacy
+gensim
+numpy
+tiktoken
+pandas

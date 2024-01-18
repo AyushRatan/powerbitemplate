@@ -1,0 +1,15 @@
+TEMPLATE MATCHING AND REPORT GENERATION
+ 
+1) User
+	Generate a report with a basic visualisation for Car sales over 2020
+ 
+2) Local repo -> Datasets (Schema)
+	Excel - Dataset name , Columns
+ 
+3) Locate the dataset -> 
+	Extract probable columns from the User query
+	Perform exact or approximate match in the repository (Excel -> Dataset name , Columns)
+	Get the location of the Dataset (C:/Users/NITINS/OneDrive - Capgemini/CAPGEMINI/Courses/Excel for Data Analytics/Fleet_Equipment_Inventory.csv)
+ 
+4) Prompt
+	f'''Act as a python developer. Your task is to generate basic visualization in Power BI environment using Python Build visual. Write a python code assuming the dataset is present in the "C:/Users/NITINS/OneDrive - Capgemini/CAPGEMINI/Courses/Excel for Data Analytics/Fleet_Equipment_Inventory.csv" and the columns are Equipment Class and Equipment Count where Equipment Count contains value'''

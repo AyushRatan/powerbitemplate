@@ -1,0 +1,13 @@
+,Title,Type,Columns
+0,Slicer,slicer,Sales Region
+1,Actual by Period and Business Area,stackedAreaChart,"Period, Business Area, Actual"
+2,Decomposition tree,decompositionTreeVisual,"Var Plan, Sales Region, Period, IT Area, IT Sub Area, Country/Region"
+3,Var Plan % by Country/Region,filledMap,"IT Area, IT Sub Area, Actual, Plan"
+4,Actual and Plan by IT Area,lineStackedColumnComboChart,Sales Region
+5,Slicer,slicer,Var Plan %
+6,Var Plan %,card,Var LE1 %
+7,Var LE1 %,card,Var LE2 %
+8,Var LE2 %,card,Var LE3 %
+9,Var LE3 %,card,"Month, Business Area, Var Plan %"
+10,Var Plan by Country/Region,clusteredBarChart,"Business Area, Var Plan %"
+11,Matrix,pivotTable,"Business Area, Var Plan"

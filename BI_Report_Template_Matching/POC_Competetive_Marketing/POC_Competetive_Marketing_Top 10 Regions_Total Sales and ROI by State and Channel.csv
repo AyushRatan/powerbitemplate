@@ -1,0 +1,41 @@
+,State,Channel (Map View),Total Sales,ROI
+0,CA,Stores,$1381,11%
+1,CA,Online,$1077,23%
+2,CA,Social Media,$988,13%
+3,PA,Online,$586,6%
+4,NY,Online,$536,9%
+5,MI,Online,$477,6%
+6,NY,Social Media,$422,-10%
+7,NY,Stores,$411,1%
+8,GA,Online,$400,19%
+9,PA,Social Media,$396,-14%
+10,WA,Online,$353,9%
+11,CO,Online,$350,11%
+12,CA,Outlet,$269,26%
+13,LA,Online,$255,18%
+14,CO,Social Media,$251,11%
+15,PA,Stores,$250,1%
+16,GA,Social Media,$241,4%
+17,MI,Social Media,$234,-12%
+18,WA,Stores,$204,31%
+19,WA,Social Media,$199,-6%
+20,GA,Stores,$193,21%
+21,KS,Online,$167,-10%
+22,LA,Social Media,$166,-5%
+23,MI,Stores,$136,-4%
+24,AR,Online,$134,18%
+25,CO,Stores,$132,-2%
+26,KS,Social Media,$120,-2%
+27,AR,Social Media,$86,-5%
+28,LA,Stores,$71,4%
+29,NY,Outlet,$66,14%
+30,AR,Stores,$59,44%
+31,PA,Outlet,$50,2%
+32,KS,Stores,$49,36%
+33,WA,Outlet,$42,-28%
+34,CO,Outlet,$41,-13%
+35,GA,Outlet,$37,61%
+36,MI,Outlet,$33,106%
+37,AR,Outlet,$9,125%
+38,LA,Outlet,$6,-33%
+39,KS,Outlet,$3,-77%

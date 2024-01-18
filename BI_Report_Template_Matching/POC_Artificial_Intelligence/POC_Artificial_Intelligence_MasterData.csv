@@ -1,0 +1,10 @@
+,Visual_Title,Visual_Type,Columns
+0,Horizontal Shape,shape,"Revenue Won, Product"
+1,Image,image,"Status, Purchase Process, Sales owner, Industry, Product, Value, Manager, Product category, Campaign Name, Discount"
+2,Horizontal Shape,shape,"Close %, Product category"
+3,Horizontal Shape,shape,"Product category, Product, Region, Industry, Sales owner, Territory, Sales Opportunity"
+4,Revenue Won by Product,barChart,"Region, Opportunity Count"
+5,Key Influencers,keyDriversVisual,"Campaign Type, Sales Opportunity"
+6,Close % by Product category,barChart,"Product category, Product, Region, Industry, Sales owner, Territory, Sales Opportunity"
+7,Image,image,"Region, Opportunity Count"
+8,Horizontal Shape,shape,"Campaign Type, Sales Opportunity"

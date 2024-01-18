@@ -1,0 +1,18 @@
+,Page_id,Page_Name,Visual_ID,Visualization,Title
+0,ReportSectiona9cc27467b93abd98c40,Store Sales Overview,80525a2a6cb0c6829860,multiRowCard,Multi-row card
+1,ReportSectiona9cc27467b93abd98c40,Store Sales Overview,ad292c567a76d115d6b0,multiRowCard,Multi-row card
+2,ReportSectiona9cc27467b93abd98c40,Store Sales Overview,820c6c0a465825cdbaa6,map,This Year Sales by PostalCode and Store Type
+3,ReportSectiona9cc27467b93abd98c40,Store Sales Overview,28e166680a992ae270ad,card,This Year Sales
+4,ReportSectiona9cc27467b93abd98c40,Store Sales Overview,8e0f98274cab22c6a80e,pieChart,This Year Sales by Chain
+5,ReportSectiona9cc27467b93abd98c40,Store Sales Overview,b75483a790029dd4a1c6,scatterChart,"Total Sales Var %, Sales Per Sq Ft and This Year Sales by District"
+6,ReportSectiona9cc27467b93abd98c40,Store Sales Overview,8611c361d6d685e80665,lineClusteredColumnComboChart,Total Sales Variance by FiscalMonth and District Manager
+7,ReportSection5a077c50c8d149e8746d,District Monthly Sales,591aa65a098c04b86a92,scatterChart,"Total Sales Variance %, Avg $/Unit TY and This Year Sales by Category"
+8,ReportSection5a077c50c8d149e8746d,District Monthly Sales,2c29e3187a640040ca08,lineClusteredColumnComboChart,"Last Year Sales, This Year Sales and Total Sales Variance % by FiscalMonth"
+9,ReportSection5a077c50c8d149e8746d,District Monthly Sales,1deec7668b4e00593c8a,barChart,TotalSales by Chain and Name
+10,ReportSection8ef90f03d68d67c9d9ee,New Stores,7bcd06954e309e882c00,pivotTable,Detailed  Info
+11,ReportSection8ef90f03d68d67c9d9ee,New Stores,80313843c4902b4d037e,lineStackedColumnComboChart,Last Year Sales and This Year Sales by FiscalMonth
+12,ReportSection8ef90f03d68d67c9d9ee,New Stores,VisualContainer1,waterfallChart,Total Sales Variance % by FiscalMonth
+13,ReportSection8ef90f03d68d67c9d9ee,New Stores,e2a11e48e84b4d7d7c3a,card,TYS Card
+14,ReportSection8ef90f03d68d67c9d9ee,New Stores,3c7e6c9a40203dc0a802,image,Combo Icon
+15,ReportSection8ef90f03d68d67c9d9ee,New Stores,8a542ef24b03c88b5b68,image,Ribon Icon
+16,ReportSection8ef90f03d68d67c9d9ee,New Stores,97ef12cb83896036aad7,gauge,This Year Sales and Last Year Sales

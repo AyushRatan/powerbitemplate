@@ -1,0 +1,6 @@
+1. Can we completely go ahead only with template matching by skipping the chat bot due to strict deadlines?
+2. Can we use semantic_link without fabric subscription?
+3. How about using core python to extract the meta data (But not as accurate as semantic_link)?
+4. Can meta data alone would be sufficient to perform the template matching?
+5. How about the 'py visual' approach?
+6. Any other suggestions?

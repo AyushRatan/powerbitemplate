@@ -1,0 +1,11 @@
+Tables,Column_Names
+Accounts,"Account Name, State or Province, Country, AccountID, AccountSeq, IndustrySeq, AccountOwnerSeq, Account Number, TerritorySeq"
+Industries,"Industry, IndustrySeq"
+Opportunities,"Purchase Process, Decision Maker Identified, Status, Sales Stage, Value, Weeks Open, DaysToClose, Discount, Probability, Rating, Days Remaining In Pipeline, Probability (raw), AccountSeq, OpportunitySeq, ProductSeq, SystemUserSeq, CampaignSeq, Blank, DateDiff-Days, Opportunity Created On, CloseDate, Days Remaining In Pipeline (bins)"
+Owners,"Owner, Manager, SystemUserSeq, systemuserid"
+Products,"Product, ProductSeq, Product Category"
+Opportunity Forecast Adjustment,"Forecast Adjustment, Blank"
+Contacts,"Contact, Job Title, ContactSeq, AccountSeq"
+Territories,"Region, Territory, Country, TerritorySeq, State Or Province"
+Campaigns,"CampaignSeq, Campaign Type, Campaign"
+Opportunity Calendar,"Date, MONTH, RELATIVE 07 DAY PERIOD, RELATIVE 30 DAY PERIOD, RELATIVE DAY, RELATIVE MONTH, RELATIVE WEEK, WEEK, YEAR, YEAR MONTH, YEAR WEEK, DAY, DaySeq, MONTH NUMBER, YEAR MONTH NUMBER"

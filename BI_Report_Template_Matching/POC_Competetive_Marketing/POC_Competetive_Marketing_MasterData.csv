@@ -1,0 +1,58 @@
+,Visual_Title,Visual_Type,Columns
+0,Multi-row card,multiRowCard,ROI
+1,Total Sales by Channel Over Time,lineStackedColumnComboChart,"Manufacturer, Product, ROI"
+2,Multi-row card,multiRowCard,ROI
+3,Multi-row card,multiRowCard,"Manufacturer, Product, ROI"
+4,Multi-row card,multiRowCard,"State, ROI, Sales"
+5,Multi-row card,multiRowCard,Return on Investment (ROI)
+6,Total Sales by Channel,donutChart,"Months, Total Sales, ROI"
+7,Outlet Sales,card,"Months, Total Sales, ROI"
+8,Stores Sales,card,Return on Investment (ROI)
+9,Social Media Sales,card,"State, ROI, Sales"
+10,Online Sales,card,ROI
+11,Total Sales,card,ROI
+12,% Units Market Share R12M and % Units Market Share by Month,barChart,"Manufacturer, Product, ROI"
+13,Image,image,"State, ROI, Sales"
+14,Total Sales by Product and Channel,barChart,Return on Investment (ROI)
+15,% Units Market Share R12M and % Units Market Share by Month,lineChart,"Months, Total Sales, ROI"
+16,"Total Units by Year, Month and isVanArsdel",clusteredColumnChart,"Manufacturer, Product, ROI"
+17,Outlet Sales,card,"State, ROI, Sales"
+18,Multi-row card,multiRowCard,Return on Investment (ROI)
+19,Multi-row card,multiRowCard,"% Units Market Share, % Units Market Share R12M"
+20,Multi-row card,multiRowCard,"Months, Total Sales, ROI"
+21,Multi-row card,multiRowCard,"Year, Quarter, Month, Day, % Units Market Share, % Units Market Share R12M"
+22,Multi-row card,multiRowCard,"Year, Month, Day, isVanArsdel, Total Units"
+23,Stores Sales,card,ROI
+24,Social Media Sales,card,"Manufacturer, Product, ROI"
+25,Online Sales,card,ROI
+26,Total Sales,card,"Manufacturer, Product, ROI"
+27,Total Sales and ROI by State and Channel,map,"State, ROI, Sales"
+28,Total Sales by Channel and State,treemap,Return on Investment (ROI)
+29,% Units Market Share R12M and % Units Market Share by Month,barChart,"Months, Total Sales, ROI"
+30,Image,image,"Months, Total Sales, ROI"
+31,% Units Market Share R12M and % Units Market Share by Month,lineChart,Return on Investment (ROI)
+32,"Total Units by Year, Month and isVanArsdel",clusteredColumnChart,"State, ROI, Sales"
+33,Card,card,ROI
+34,ROI by Product,barChart,ROI
+35,Card,card,"Manufacturer, Product, ROI"
+36,ROI by Product,barChart,"State, ROI, Sales"
+37,ROI by State,map,Return on Investment (ROI)
+38,Return on Investment (ROI),gauge,"Months, Total Sales, ROI"
+39,Sales and ROI Over Time,lineStackedColumnComboChart,"Manufacturer, Product, ROI"
+40,Sales and ROI Over Time,lineStackedColumnComboChart,"State, ROI, Sales"
+41,Return on Investment (ROI),gauge,Return on Investment (ROI)
+42,ROI by State,map,"% Units Market Share, % Units Market Share R12M"
+43,Card,card,"Months, Total Sales, ROI"
+44,Card,card,"Year, Quarter, Month, Day, % Units Market Share, % Units Market Share R12M"
+45,ROI by Product,barChart,"Year, Month, Day, isVanArsdel, Total Units"
+46,ROI by State,map,KPI01
+47,Return on Investment (ROI),gauge,KPI01
+48,Sales and ROI Over Time,lineStackedColumnComboChart,KPI01
+49,ROI by Product,barChart,KPI01
+50,ROI by State,map,KPI01
+51,Return on Investment (ROI),gauge,KPI01
+52,% Units Market Share R12M and % Units Market Share by Month,barChart,KPI01
+53,Image,image,Social Media Sales
+54,Sales and ROI Over Time,lineStackedColumnComboChart,Online Sales
+55,% Units Market Share R12M and % Units Market Share by Month,lineChart,KPI01
+56,"Total Units by Year, Month and isVanArsdel",clusteredColumnChart,"State, Channel (Map View), Total Sales, ROI"

@@ -1,0 +1,58 @@
+,Page_id,Page_Name,Visual_ID,Visualization,Title
+0,ReportSectione0912ffb2ba909ea50d0,Executive Overview,01e0089059a26da6b0a9,multiRowCard,Multi-row card
+1,ReportSectione0912ffb2ba909ea50d0,Executive Overview,VisualContainer6,lineStackedColumnComboChart,Total Sales by Channel Over Time
+2,ReportSectione0912ffb2ba909ea50d0,Executive Overview,8c4d5fd430d238c80232,multiRowCard,Multi-row card
+3,ReportSectione0912ffb2ba909ea50d0,Executive Overview,383aeb4a890ab3b0602c,multiRowCard,Multi-row card
+4,ReportSectione0912ffb2ba909ea50d0,Executive Overview,c1fcec8fbd3489c06b5c,multiRowCard,Multi-row card
+5,ReportSectione0912ffb2ba909ea50d0,Executive Overview,c6f0f21b6e8eeeca780e,multiRowCard,Multi-row card
+6,ReportSectione0912ffb2ba909ea50d0,Executive Overview,b3ce93b93cba452a50d4,donutChart,Total Sales by Channel
+7,ReportSectione0912ffb2ba909ea50d0,Executive Overview,601d2ae47d1962782c20,card,Outlet Sales
+8,ReportSectione0912ffb2ba909ea50d0,Executive Overview,beef72ba5205ba2613d1,card,Stores Sales
+9,ReportSectione0912ffb2ba909ea50d0,Executive Overview,bfabe4ecb6017dc44b75,card,Social Media Sales
+10,ReportSectione0912ffb2ba909ea50d0,Executive Overview,6e130c7362a050c78ee3,card,Online Sales
+11,ReportSectione0912ffb2ba909ea50d0,Executive Overview,918a74069a7dac914785,card,Total Sales
+12,ReportSectione0912ffb2ba909ea50d0,Executive Overview,22d233e1510db7d1c3a4,barChart,% Units Market Share R12M and % Units Market Share by Month
+13,ReportSectione0912ffb2ba909ea50d0,Executive Overview,7431bd1ddf78313f3a1b,image,Image
+14,ReportSectione0912ffb2ba909ea50d0,Executive Overview,VisualContainer4,barChart,Total Sales by Product and Channel
+15,ReportSectione0912ffb2ba909ea50d0,Executive Overview,VisualContainer3,lineChart,% Units Market Share R12M and % Units Market Share by Month
+16,ReportSectione0912ffb2ba909ea50d0,Executive Overview,VisualContainer1,clusteredColumnChart,"Total Units by Year, Month and isVanArsdel"
+17,ReportSection7b10a3902b9749b440a7,Top 10 Regions,25c7bcab60c1e6a83e95,card,Outlet Sales
+18,ReportSection7b10a3902b9749b440a7,Top 10 Regions,6dcbb33b0023ad4a8b7d,multiRowCard,Multi-row card
+19,ReportSection7b10a3902b9749b440a7,Top 10 Regions,411d5777020c9b511dee,multiRowCard,Multi-row card
+20,ReportSection7b10a3902b9749b440a7,Top 10 Regions,90df334e48300593891d,multiRowCard,Multi-row card
+21,ReportSection7b10a3902b9749b440a7,Top 10 Regions,c880775270c2c6801780,multiRowCard,Multi-row card
+22,ReportSection7b10a3902b9749b440a7,Top 10 Regions,69cd67e0bdd308b1910c,multiRowCard,Multi-row card
+23,ReportSection7b10a3902b9749b440a7,Top 10 Regions,927e45e69d461b540a95,card,Stores Sales
+24,ReportSection7b10a3902b9749b440a7,Top 10 Regions,e62be78fd1927715954c,card,Social Media Sales
+25,ReportSection7b10a3902b9749b440a7,Top 10 Regions,202621bb57dc32d01de1,card,Online Sales
+26,ReportSection7b10a3902b9749b440a7,Top 10 Regions,d5bb72270298244906a5,card,Total Sales
+27,ReportSection7b10a3902b9749b440a7,Top 10 Regions,9fafd9435a0cc51a9333,map,Total Sales and ROI by State and Channel
+28,ReportSection7b10a3902b9749b440a7,Top 10 Regions,4a2a265801b28098d91a,treemap,Total Sales by Channel and State
+29,ReportSection7b10a3902b9749b440a7,Top 10 Regions,22d233e1510db7d1c3a4,barChart,% Units Market Share R12M and % Units Market Share by Month
+30,ReportSection7b10a3902b9749b440a7,Top 10 Regions,7431bd1ddf78313f3a1b,image,Image
+31,ReportSection7b10a3902b9749b440a7,Top 10 Regions,VisualContainer3,lineChart,% Units Market Share R12M and % Units Market Share by Month
+32,ReportSection7b10a3902b9749b440a7,Top 10 Regions,VisualContainer1,clusteredColumnChart,"Total Units by Year, Month and isVanArsdel"
+33,ReportSectionaf0a35f32177070e5614,Return on Investment,dcfe8fa029be4d09d19d,card,Card
+34,ReportSectionaf0a35f32177070e5614,Return on Investment,2055a9552d55309a00a3,barChart,ROI by Product
+35,ReportSectionaf0a35f32177070e5614,Return on Investment,387f678daba1da7c743b,card,Card
+36,ReportSectionaf0a35f32177070e5614,Return on Investment,2981d08ed8a0d96e9d52,barChart,ROI by Product
+37,ReportSectionaf0a35f32177070e5614,Return on Investment,745641610271ba1783b2,map,ROI by State
+38,ReportSectionaf0a35f32177070e5614,Return on Investment,c78f9626d517e12ce57e,gauge,Return on Investment (ROI)
+39,ReportSectionaf0a35f32177070e5614,Return on Investment,341bbe841c530182663e,lineStackedColumnComboChart,Sales and ROI Over Time
+40,ReportSectionaf0a35f32177070e5614,Return on Investment,63c060122930163c4bea,lineStackedColumnComboChart,Sales and ROI Over Time
+41,ReportSectionaf0a35f32177070e5614,Return on Investment,8c95cb70709022447714,gauge,Return on Investment (ROI)
+42,ReportSectionaf0a35f32177070e5614,Return on Investment,193cc3df5d4a2cd04355,map,ROI by State
+43,ReportSectionaf0a35f32177070e5614,Return on Investment,7b58a02931b19d40a910,card,Card
+44,ReportSectionaf0a35f32177070e5614,Return on Investment,2bc557826ac620ce4639,card,Card
+45,ReportSectionaf0a35f32177070e5614,Return on Investment,769f10b9a1e29a389885,barChart,ROI by Product
+46,ReportSectionaf0a35f32177070e5614,Return on Investment,42f96cb70b3703e50377,map,ROI by State
+47,ReportSectionaf0a35f32177070e5614,Return on Investment,b912d093940d97507ca6,gauge,Return on Investment (ROI)
+48,ReportSectionaf0a35f32177070e5614,Return on Investment,b0e14884d5502e0038b1,lineStackedColumnComboChart,Sales and ROI Over Time
+49,ReportSectionaf0a35f32177070e5614,Return on Investment,83efef8e63ee06c9615e,barChart,ROI by Product
+50,ReportSectionaf0a35f32177070e5614,Return on Investment,60a0d2e43199c5c1c2ac,map,ROI by State
+51,ReportSectionaf0a35f32177070e5614,Return on Investment,e8fa5953ab7d8a9cb999,gauge,Return on Investment (ROI)
+52,ReportSectionaf0a35f32177070e5614,Return on Investment,22d233e1510db7d1c3a4,barChart,% Units Market Share R12M and % Units Market Share by Month
+53,ReportSectionaf0a35f32177070e5614,Return on Investment,7431bd1ddf78313f3a1b,image,Image
+54,ReportSectionaf0a35f32177070e5614,Return on Investment,VisualContainer6,lineStackedColumnComboChart,Sales and ROI Over Time
+55,ReportSectionaf0a35f32177070e5614,Return on Investment,VisualContainer3,lineChart,% Units Market Share R12M and % Units Market Share by Month
+56,ReportSectionaf0a35f32177070e5614,Return on Investment,VisualContainer1,clusteredColumnChart,"Total Units by Year, Month and isVanArsdel"

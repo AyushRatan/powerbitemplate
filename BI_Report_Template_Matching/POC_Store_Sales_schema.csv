@@ -1,0 +1,6 @@
+Tables,Column_Names
+Store,"LocationID, City Name, Territory, PostalCode, OpenDate, SellingAreaSize, DistrictName, Name, StoreNumberName, StoreNumber, City, Chain, DM, DM_Pic, DistrictID, Open Year, Store Type, Open Month No, Open Month"
+Sales,"MonthID, ItemID, LocationID, Sum_GrossMarginAmount, Sum_Regular_Sales_Dollars, Sum_Markdown_Sales_Dollars, ScenarioID, ReportingPeriodID, Sum_Regular_Sales_Units, Sum_Markdown_Sales_Units"
+Item,"ItemID, Segment, Category, Buyer, FamilyNane, Category (clusters) 2"
+Time,"ReportingPeriodID, Period, FiscalYear, FiscalMonth, Month"
+District,"DistrictID, District, DM, DM_Pic_fl, DM_Pic, BusinessUnitID, DMImage"

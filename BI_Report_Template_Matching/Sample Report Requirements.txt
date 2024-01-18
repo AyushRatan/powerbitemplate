@@ -1,0 +1,30 @@
+
+Use Case 1 : Show me all full time employees hired in north region in Mar month
+
+
+As a BI Developer, below are steps: 
+
+1. Identify the data mart that is relevant to the business use case.
+
+2. Check if there is already a Power BI Dataset (semantic layer) built on top of the data mart
+
+3. Check if all relevant dimension for the business use case are available on the Power BI dataset
+
+4. To identify the columns (or attributes) needed for the use case (ex : Date , Employees , Region)
+
+5. Filters to be applied on each of the attribute identifier ( ex : Date - MonthName = Mar'2023)
+
+6. Identify the KPIs ( ex : Number of Employees)
+
+7. Identify the best fit visual for the use case ( ex : Card Visual for a single measure , scatter plot if its a comparison b/w multiple KPIs , Trend = Line Graph , etc)
+
+8. Security related needs ( any sensitive data to be hidden)
+
+
+From Gen AI 
+
+1. Need a repository of the semantic layer
+
+2. Filter a set of reports..
+
+3. Identify

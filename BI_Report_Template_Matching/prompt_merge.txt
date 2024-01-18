@@ -1,0 +1,54 @@
+Following are the columns in respective table :
+
+1st table:
+Table Name,	Measure Name,	Measure Expression, Measure Data Type,	Measure Hidden
+
+2nd table: 
+Page Name,	Visual Title,	Visual Type,	Visual Name
+
+3rd table:
+Table Name, column names
+
+
+Actually I had a power BI report and I have pulled the meta data using multiple ways for the same report. The first tables consists of Measures carried out in the report. The second table consists of visuals information. The third table consists of dataset schema. Now please combine these 3 three table into a single table meaningfully. Give me in python.
+
+
+
+
+
+
+import pandas as pd
+
+# Assuming you have your data loaded into dataframes, replace the following lines with your actual data loading logic
+# For example, you can use pd.read_csv() to read data from CSV files
+
+# Sample data loading
+table1_data = pd.DataFrame({
+    'Table Name': ['Table1', 'Table2'],
+    'Measure Name': ['Measure1', 'Measure2'],
+    'Measure Expression': ['Expression1', 'Expression2'],
+    'Measure Data Type': ['Type1', 'Type2'],
+    'Measure Hidden': [False, True]
+})
+
+table2_data = pd.DataFrame({
+    'Page Name': ['Page1', 'Page2'],
+    'Visual Title': ['Title1', 'Title2'],
+    'Visual Type': ['Type1', 'Type2'],
+    'Visual Name': ['Name1', 'Name2']
+})
+
+table3_data = pd.DataFrame({
+    'Table Name': ['Table1', 'Table2'],
+    'Column Names': [['Column1', 'Column2'], ['Column3', 'Column4']]
+})
+
+# Merge tables based on common columns
+merged_table = pd.merge(table1_data, table2_data, left_on='Table Name', right_on='Page Name', how='outer')
+merged_table = pd.merge(merged_table, table3_data, on='Table Name', how='outer')
+
+# Rename columns for clarity
+merged_table.rename(columns={'Table Name': 'Table/Visual Name'}, inplace=True)
+
+# Display the combined table
+print(merged_table.head(1))
